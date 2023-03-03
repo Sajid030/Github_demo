@@ -1,1 +1,2 @@
 This is my food delivery website
+Some minor fixes
